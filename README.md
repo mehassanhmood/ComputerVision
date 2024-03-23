@@ -1,1 +1,1 @@
-# Math-MiniProject
+# Digging deep inot VAEs And GANs
