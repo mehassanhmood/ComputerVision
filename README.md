@@ -9,4 +9,6 @@ Generative models play a vital role in various applications, including image gen
   VAEs are more stable during training compared to GANs but may produce less realistic images. Evaluation metrics for VAEs include reconstruction loss and the quality of generated images in the latent space.
    ![Total and Reconstruction Loss](tl_rl.png)
    ![Kulbach Liebler Loss](kl_loss.png)
+## Scope of project
+-  The focus of this project leaned towards theoretical aspects. Hence focus was on the implementation of the concepts and not the results generated. 
     
