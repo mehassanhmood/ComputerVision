@@ -4,6 +4,6 @@ Generative models play a vital role in various applications, including image gen
 ## Training and Evaluation: 
 1. GANs:    
   Training GANs can be challenging due to instability and mode collapse issues. However, when properly trained, GANs can generate high-quality and diverse images. Evaluation metrics for GANs include Inception Score (IS) and Fréchet Inception Distance (FID), which measure the quality and diversity of generated images.
-![Tensor Board]()
+![Tensor Board](tensorboard.jpg)
 3. VAEs:    
   VAEs are more stable during training compared to GANs but may produce less realistic images. Evaluation metrics for VAEs include reconstruction loss and the quality of generated images in the latent space
