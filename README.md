@@ -1,1 +1,1 @@
-# Digging deep inot VAEs And GANs
+# Digging deep into VAEs And GANs
